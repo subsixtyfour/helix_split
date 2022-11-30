@@ -50,7 +50,7 @@ As such, those are in use within the default layer at this time.*/
        &trans    &trans   &trans &trans   &trans   &trans                             &trans    &trans    &trans    &trans   &trans   &trans
        &trans    &trans   &trans &trans   &trans   &trans                             &trans    &trans    &trans    &trans   &trans   &trans
        &trans    &trans   &trans &trans   &trans   &trans                             &trans    &trans    &trans    &trans   &trans   &trans
-       &trans    &trans   &trans &trans   &trans   &trans    &kp RS(UNDER)   &kp N5   &trans    &trans    &trans    &trans   &trans   &trans
+       &trans    &trans   &trans &trans   &trans   &trans    &kp MINUS       &kp N5   &trans    &trans    &trans    &trans   &trans   &trans
        &trans    &trans   &trans &trans   &trans   &trans    &trans          &trans   &trans    &trans    &trans    &trans   &trans   &trans
                      >;
               };
@@ -62,7 +62,7 @@ As such, those are in use within the default layer at this time.*/
  // |       |  F7   |  F8   |  F9   |  F10  |  F11  |       |                    |       |  F12  |       | PSCRN | PG_DN | PG_UP |       |
  // |       |       |       |       |       |       |       |                    |       |       |       | NEXT  | VOL-  | VOL+  | PLAY  |
                      bindings = <
-       &trans    &trans   &trans &kp LBKT &kp EQUAL &kp UNDER                      &trans  &trans    &trans     &trans     &trans    &trans
+       &trans    &trans   &trans &kp LBKT &kp EQUAL &kp MINUS                      &trans  &trans    &trans     &trans     &trans    &trans
        &trans    &kp APOS &trans &trans   &trans    &trans                         &trans  &trans    &trans     &trans     &trans    &kp DEL
        &trans    &trans   &trans &trans   &trans    &trans                         &trans  &kp MINUS &kp RBKT   &trans     &kp RBKT  &kp BSLH
        &trans    &trans   &trans &trans   &trans    &kp GT  &trans          &trans &kp LT  &trans    &kp BSLH   &trans     &trans    &trans
